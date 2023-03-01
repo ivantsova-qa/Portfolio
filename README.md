@@ -23,10 +23,10 @@ My LinkedIn profile: [Anastasiia Ivantsova](https://www.linkedin.com/in/anastasi
   #### Postman
   - Pet Store.postman_collection User request [LINK to export file](https://drive.google.com/file/d/17qOPjbho3sbkf9C50dhk5gN4uCNsYVAB/view?usp=share_link)
   ## Courses
-  - The Fundamentals of Software Testing at QATestLab [LINK to Crtificate](https://clients.qatestlab.com/api/trainings/public_certificate_222106_23549.pdf)
-  - Software Testing Introduction at EPAM [LINK to Crtificate](https://certificates.epam.com/certificates/7996d265-28bc-4aee-86de-4fe087bc652a)
+  - The Fundamentals of Software Testing at QATestLab [LINK to Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_222106_23549.pdf)
+  - Software Testing Introduction at EPAM [LINK to Certificate](https://certificates.epam.com/certificates/7996d265-28bc-4aee-86de-4fe087bc652a)
   - Challenge QA Automated Testing from DareIT
-  - Автоматизация тестирования с помощью Selenium + Python (Stepik) [LINK to Crtificate](https://stepik.org/cert/1941528)
+  - Автоматизация тестирования с помощью Selenium + Python (Stepik) [LINK to Certificate](https://stepik.org/cert/1941528)
 ## Tools
 - Slack 
 - Chrome DevTools
