@@ -20,6 +20,8 @@ My LinkedIn profile: [Anastasiia Ivantsova](https://www.linkedin.com/in/anastasi
   - Bug reports for challenge from DareIT + Test Report + screenshots [LINK to Bug reports](https://drive.google.com/drive/folders/1fLLX__coPv3PuW9-AJs-7WgW-Ub6GnHP)
  #### HTML/CSS
   - My Web Resume [LINK to My CV](https://ivantsova-qa.github.io/homepage/)
+  #### Postman
+  - Pet Store.postman_collection User request [LINK to export file](https://drive.google.com/file/d/17qOPjbho3sbkf9C50dhk5gN4uCNsYVAB/view?usp=share_link)
   ## Courses
   - The Fundamentals of Software Testing at QATestLab [LINK to Crtificate](https://clients.qatestlab.com/api/trainings/public_certificate_222106_23549.pdf)
   - Software Testing Introduction at EPAM [LINK to Crtificate](https://certificates.epam.com/certificates/7996d265-28bc-4aee-86de-4fe087bc652a)
